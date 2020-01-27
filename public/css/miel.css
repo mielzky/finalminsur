@@ -1,0 +1,18 @@
+.minslogo {
+  font-family: 'Lobster', cursive;
+  font-size: 2rem !important;
+  color: white !important;
+  text-shadow: 2px 2px black;
+}
+
+.bgimportant {
+  background-color: #9dd9a3 !important;
+  background-image: url("https://www.transparenttextures.com/patterns/light-wool.png") !important;
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+
+.cardhead {
+  font-weight: bolder;
+  color: white;
+}
